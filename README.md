@@ -12,6 +12,4 @@ Through research and teamwork, a plan was devised.
 
 ### Don't believe us? Try it!
 
-(Include several examples of how your grader can run your code and see outputs)
-
-
+* To run this you can run ./gradlew test in the CLI or import the app to IntelliJ and run it from there.
